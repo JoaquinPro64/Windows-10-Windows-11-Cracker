@@ -8,3 +8,5 @@ In the program, you can select between Detecting the Windows edition automaticly
 IT'S RECOMENDED THAT YOU RESTART YOUR PC AFTER ACTIVATING TO FINISH THE PROCESS
 
 And obviously, its fully open source and virus free
+
+Disclaimer: The program is only available in Spanish languaje, English will be added soon
