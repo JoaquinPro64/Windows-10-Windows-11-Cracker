@@ -7,6 +7,6 @@ In the program, you can select between Detecting the Windows edition automaticly
 
 IT'S RECOMENDED THAT YOU RESTART YOUR PC AFTER ACTIVATING TO FINISH THE PROCESS
 
-And obviously, its fully open source and virus free. Programmed in VB .NET 5.0 with Visual Studio 2019
+And its fully open source and virus free. Programmed in VB .NET 5.0 with Visual Studio 2019
 
-Disclaimer: The program is only available in Spanish languaje, English will be added soon
+--REMEMBER: the program is only available in spanish language. English Coming Soon--
