@@ -9,4 +9,6 @@ IT'S RECOMENDED THAT YOU RESTART YOUR PC AFTER ACTIVATING TO FINISH THE PROCESS
 
 And its fully open source and virus free. Programmed in VB .NET 5.0 with Visual Studio 2019
 
---REMEMBER: the program is only available in spanish language. English Coming Soon--
+The program is only available in spanish language. English Coming Soon
+
+WARNING: Windows Defender may flag the .exe file as a virus, but its a false positive from the winrar auto-extractable file
