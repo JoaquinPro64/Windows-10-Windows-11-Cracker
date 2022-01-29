@@ -1,5 +1,5 @@
 # Windows-10-Windows-11-Cracker
-A program for cracking Windows 10 or Windows 11 Open Source
+An Open Source program for cracking Windows 10 or Windows 11
 
 It can active every Windows 10 or Windows 11 edition.
 The program can be used in Console mode or UI mode (.net 5.0 required)
